@@ -1,8 +1,5 @@
-
-<!DOCTYPE html>
 <html>
 <head>
-	<title>Dramacool - Best place to watch drama movies online free</title>
 </head>
 <body>
 <h1>Top 3 Legendary TVB Dramas - Dramacool.city</h1>
